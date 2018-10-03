@@ -1,0 +1,28 @@
+#main{
+  color: black;
+  text-align: center;
+  font-family: Georgia;
+}
+#img-div{
+  display: block;
+  margin: 2%;
+}
+#image {
+  max-width: 100%;
+  margin-top: auto; 
+  height: 300px;
+  text-align: center;
+  margin: auto;
+}
+#tribute-info{
+  text-align:left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+li {
+    margin: auto;
+    text-align: left;
+}
+a{
+  text-color: #00dd44
+}
